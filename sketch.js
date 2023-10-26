@@ -25,9 +25,9 @@ var clon=0 ;
 var zom =14;
 //const key = 'sk.eyJ1Ijoic2FuZGFuZGFuaWFvIiwiYSI6ImNsNnltdXB4cDBhaHQzb21hcjhmc2F0ajMifQ.EB48neBzds8Ts3Ttl-rJFQ'
 
-//let font;
-let graphics;
-let samurai;
+let font;
+//let graphics;
+//let samurai;
 
 //const mappa = new Mappa('Mapbox', key);
 
